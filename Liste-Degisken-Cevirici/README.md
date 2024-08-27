@@ -34,11 +34,7 @@ Ben örnek olarak ChatGPT'ye yaptırdığım `\1a2b-3c4d-5e6f-7g8h-9i0j-klmnopqr
 src="https://raw.githubusercontent.com/yaso09/ScratchW/main/Liste-Degisken-Cevirici/Assets/variable.variable.png">
 , listenin kaydedileceği değişken. 
 
-<hr>
-
 <img src="https://raw.githubusercontent.com/yaso09/ScratchW/main/Liste-Degisken-Cevirici/Assets/block1.png">
-
-<hr>
 
 <img src="https://raw.githubusercontent.com/yaso09/ScratchW/main/Liste-Degisken-Cevirici/Assets/block3.png">
 
