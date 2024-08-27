@@ -1,4 +1,4 @@
-<img style="height: 10rem" src="https://github.com/user-attachments/assets/a62796b8-12fc-4a90-8e89-3a7c72d11f39"></img>
+<img style="height: 15rem" src="https://github.com/user-attachments/assets/eae2beb4-1614-414e-afed-c86a392f6202"></img>
 # ScratchBlocks
 Özel Scratch blokları!
 
