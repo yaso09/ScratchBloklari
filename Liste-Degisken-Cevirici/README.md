@@ -1,4 +1,4 @@
-[![](https://visitor-badge.laobi.icu/badge?page_id=yaso09.ScratchW)](#)
+[![](https://visitor-badge.laobi.icu/badge?page_id=yaso09.ScratchW&left_text=Ziyaretçi+sayısı)](#)
 
 # Liste-Değişken Çevirici
 
