@@ -1,4 +1,4 @@
-[![](https://visitor-badge.laobi.icu/badge?page_id=yaso09.ScratchW)](#)
+[![](https://visitor-badge.laobi.icu/badge?page_id=yaso09.ScratchW&left_text=Ziyaretçi+Sayısı)](#)
 
 <img style="height: 10rem" src="https://github.com/user-attachments/assets/eae2beb4-1614-414e-afed-c86a392f6202">
 
