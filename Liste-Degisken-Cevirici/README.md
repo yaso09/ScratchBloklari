@@ -9,36 +9,36 @@ Yaptığım kod blokları kolayca listenizdeki elemanları bir değişkene kayde
 
 ### Değişkenler ve Listeler
 <img style="height: 3rem"
-src="https://raw.githubusercontent.com/yaso09/ScratchW/main/Liste-Degisken-Cevirici/Assets/index.variable.png"></img>
+src="https://raw.githubusercontent.com/yaso09/ScratchW/main/Liste-Degisken-Cevirici/Assets/index.variable.png">
 <img style="height: 3rem"
-src="https://raw.githubusercontent.com/yaso09/ScratchW/main/Liste-Degisken-Cevirici/Assets/letter.variable.png"></img>
+src="https://raw.githubusercontent.com/yaso09/ScratchW/main/Liste-Degisken-Cevirici/Assets/letter.variable.png">
 <img style="height: 3rem"
-src="https://raw.githubusercontent.com/yaso09/ScratchW/main/Liste-Degisken-Cevirici/Assets/letter-2.variable.png"></img>
+src="https://raw.githubusercontent.com/yaso09/ScratchW/main/Liste-Degisken-Cevirici/Assets/letter-2.variable.png">
 <img style="height: 3rem"
-src="https://raw.githubusercontent.com/yaso09/ScratchW/main/Liste-Degisken-Cevirici/Assets/split.variable.png"></img>
+src="https://raw.githubusercontent.com/yaso09/ScratchW/main/Liste-Degisken-Cevirici/Assets/split.variable.png">
 <img style="height: 3rem"
-src="https://raw.githubusercontent.com/yaso09/ScratchW/main/Liste-Degisken-Cevirici/Assets/variable.variable.png"></img>
+src="https://raw.githubusercontent.com/yaso09/ScratchW/main/Liste-Degisken-Cevirici/Assets/variable.variable.png">
 
 <img style="height: 3rem"
-src="https://raw.githubusercontent.com/yaso09/ScratchW/main/Liste-Degisken-Cevirici/Assets/list.list.png"></img>
+src="https://raw.githubusercontent.com/yaso09/ScratchW/main/Liste-Degisken-Cevirici/Assets/list.list.png">
 
 ### Bloklar
-<img src="https://raw.githubusercontent.com/yaso09/ScratchW/main/Liste-Degisken-Cevirici/Assets/block2.png"></img>
+<img src="https://raw.githubusercontent.com/yaso09/ScratchW/main/Liste-Degisken-Cevirici/Assets/block2.png">
 
 Bu kod bloğundaki
 <img style="height: 2rem"
-src="https://raw.githubusercontent.com/yaso09/ScratchW/main/Liste-Degisken-Cevirici/Assets/ayrac.variables.png"></img>
+src="https://raw.githubusercontent.com/yaso09/ScratchW/main/Liste-Degisken-Cevirici/Assets/ayrac.variables.png">
 , listeyi değişkene kaydettiğimizde listenin elemanlarının arasına koyacağımız bir ayraç.
 Ben örnek olarak ChatGPT'ye yaptırdığım `\1a2b-3c4d-5e6f-7g8h-9i0j-klmnopqrst\` ayracını kullanıyorum.
 <img style="height: 2rem"
-src="https://raw.githubusercontent.com/yaso09/ScratchW/main/Liste-Degisken-Cevirici/Assets/variable.variable.png"></img>
+src="https://raw.githubusercontent.com/yaso09/ScratchW/main/Liste-Degisken-Cevirici/Assets/variable.variable.png">
 , listenin kaydedileceği değişken. 
 
 <hr>
 
-<img src="https://raw.githubusercontent.com/yaso09/ScratchW/main/Liste-Degisken-Cevirici/Assets/block1.png"></img>
+<img src="https://raw.githubusercontent.com/yaso09/ScratchW/main/Liste-Degisken-Cevirici/Assets/block1.png">
 
 <hr>
 
-<img src="https://raw.githubusercontent.com/yaso09/ScratchW/main/Liste-Degisken-Cevirici/Assets/block3.png"></img>
+<img src="https://raw.githubusercontent.com/yaso09/ScratchW/main/Liste-Degisken-Cevirici/Assets/block3.png">
 
