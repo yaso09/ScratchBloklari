@@ -1,5 +1,5 @@
 <img style="height: 10rem" src="https://github.com/user-attachments/assets/eae2beb4-1614-414e-afed-c86a392f6202"></img>
-# ScratchBlocks
+# ScratchW
 Özel Scratch blokları!
 
 
