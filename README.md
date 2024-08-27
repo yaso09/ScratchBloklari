@@ -1,10 +1,10 @@
-<img style="height: 10rem" src="https://github.com/user-attachments/assets/eae2beb4-1614-414e-afed-c86a392f6202"></img>
+<img style="height: 10rem" src="https://github.com/user-attachments/assets/eae2beb4-1614-414e-afed-c86a392f6202">
 # ScratchW
 Özel Scratch blokları!
 
 
 ### Bloklar
-<a href="./Liste-Degisken-Cevirici/README.md">Liste-Değişken Çevirici</a>
+<a href="./Liste-Degisken-Cevirici">Liste-Değişken Çevirici</a>
 
 ### Katkıda Bulunmak ve İletişim
 Github veya <a href="https://scratch.mit.edu/users/GocCompany">Scratch hesabım</a> üzerinden iletişime geçebilir ve önerilerinizi belirtebilirsiniz.
