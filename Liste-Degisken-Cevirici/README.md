@@ -1,10 +1,12 @@
-# Neden Bu Çeviriciye İhtiyacınız Olabilir
+# Liste-Değişken Çevirici
+
+## Neden Bu Çeviriciye İhtiyacınız Olabilir
 Çevrimiçi oyunlar vb. projeler geliştirmek isteyebilirsiniz.
 Bu tarz bir proje geliştirmeye kalkıştığınızda eğer verilerinizi listeleri kullanarak sıralarsanız bu listeleri bulut değişkenlerine kaydetmek veya
 bu listelerin içeriklerini başka listelere/değişkenlere aktarmak isteyebilirsiniz.
 İşte o zaman bu kod blokları işlerinizi kolaylaştıracaktır.
 
-# Nasıl Çalışıyor
+## Nasıl Çalışıyor
 Yaptığım kod blokları kolayca listenizdeki elemanları bir değişkene kaydetmeye, sonrasında da değişkenden tekrardan listeye çekmeye yarıyor.
 
 ### Değişkenler ve Listeler
