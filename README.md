@@ -1,4 +1,4 @@
-![Views Counter](https://views-counter.vercel.app/badge?pageId=yaso09%2FScratchW&leftColor=3584e4&rightColor=0adb3f&type=total&label=Ziyaret%C3%A7iler&style=none)
+[![](https://visitor-badge.laobi.icu/badge?page_id=yaso09.ScratchW)](#)
 
 <img style="height: 10rem" src="https://github.com/user-attachments/assets/eae2beb4-1614-414e-afed-c86a392f6202">
 
