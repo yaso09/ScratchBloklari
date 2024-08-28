@@ -3,9 +3,9 @@
 <img style="height: 10rem" src="https://github.com/user-attachments/assets/eae2beb4-1614-414e-afed-c86a392f6202">
 
 # ScratchW
-Özel Scratch blokları!
+Özel Scratch blokları ve daha fazlası üzerine tartışacağımız yazılar paylaşacağımız sayfamız.
 
-### Bloklar
+### Yazılar
 <a href="./Liste-Degisken-Cevirici">Liste-Değişken Çevirici</a>
 
 ### Katkıda Bulunmak ve İletişim
