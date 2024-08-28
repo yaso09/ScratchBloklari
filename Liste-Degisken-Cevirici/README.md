@@ -34,11 +34,37 @@ Bu kod bloğundaki
 src="https://raw.githubusercontent.com/yaso09/ScratchW/main/Liste-Degisken-Cevirici/Assets/ayrac.variables.png">
 , listeyi değişkene kaydettiğimizde listenin elemanlarının arasına koyacağımız bir ayraç.
 Ben örnek olarak ChatGPT'ye yaptırdığım `\1a2b-3c4d-5e6f-7g8h-9i0j-klmnopqrst\` ayracını kullanıyorum.
+Ancak bulut değişkenleri için bu kod bloklarını kullanmak isterseniz sayı kullanmanız gerekecektir.
+Bu durumda yine ChatGPT'ye yaptırdığım `4729013586274190837452938105723948102957832104958126301948752639
+` ayracını kullanabilirsiniz.
 <img style="height: 2rem"
 src="https://raw.githubusercontent.com/yaso09/ScratchW/main/Liste-Degisken-Cevirici/Assets/variable.variable.png">
-, listenin kaydedileceği değişken. 
+, listenin kaydedileceği değişken oluyor.
+<img style="height: 2rem"
+src="https://raw.githubusercontent.com/yaso09/ScratchW/main/Liste-Degisken-Cevirici/Assets/index.variable.png">
+ise
+<img style="height: 2rem"
+src="https://raw.githubusercontent.com/yaso09/ScratchW/main/Liste-Degisken-Cevirici/Assets/list.list.png">
+in kaçıncı elemanını
+<img style="height: 2rem"
+src="https://raw.githubusercontent.com/yaso09/ScratchW/main/Liste-Degisken-Cevirici/Assets/variable.variable.png">
+a kaydedeceğimizi gösteriyor. Gördüğünüz gibi ilk önce 1 numaralı elemanını ekliyoruz. Ardından
+<img style="height: 2rem"
+src="https://github.com/user-attachments/assets/97ff4310-4fcb-43ce-bbb9-1b61ac455725">
+olana kadar
+<img style="height: 2rem"
+src="https://raw.githubusercontent.com/yaso09/ScratchW/main/Liste-Degisken-Cevirici/Assets/index.variable.png">
+i 1 arttırıyoruz. Bu sayede
+<img style="height: 2rem"
+src="https://raw.githubusercontent.com/yaso09/ScratchW/main/Liste-Degisken-Cevirici/Assets/list.list.png">
+imiz 
+
 
 <img src="https://raw.githubusercontent.com/yaso09/ScratchW/main/Liste-Degisken-Cevirici/Assets/block1.png">
 
+
 <img src="https://raw.githubusercontent.com/yaso09/ScratchW/main/Liste-Degisken-Cevirici/Assets/block3.png">
+
+<script id="dsq-count-scr" src="//scratchw.disqus.com/count.js" async></script>
+
 
